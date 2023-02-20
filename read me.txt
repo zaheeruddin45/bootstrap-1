@@ -1,0 +1,9 @@
+repository : bootstrap1
+commit : mycommit
+branch : main2
+remote:origin
+project:1.0
+
+commit : mycommit
+branch : main3
+project:2.0
